@@ -1,4 +1,4 @@
-# tgbot❤
+# White-Devil-Bot ❤
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Rose's+Repo!;A+simple+Group+modular+bot!;and+all+futures!)
 </p>
 <center><img src="https://telegra.ph/file/d524463f0ff11d9d9a28b.jpg"></center>

@@ -19,15 +19,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 
-Hi {}, my name is {}! It's a cool admin bot that I run by [he](tg://user?id={}).
-
-Mine was built in python3 using the python-telegram-bot library. I am fully opensourced. You can see my code [here](https://youtu.be/wKL90i3cjPw).
-
-Watch the video below to make an admin bot like me.
-
-Subscribe to update channel to know about my updates and activity.
-
-Also don't forget to subscribe Tech Gaming YouTube channel below.
+Hi {}, my name is {}! It's a cool admin bot .
 
 Press /help to learn about available commands.
 
